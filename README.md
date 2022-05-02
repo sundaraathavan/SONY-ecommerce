@@ -45,6 +45,7 @@ payment
 
 
 @Your choice of technology and the reasons for using them (and any alternatives you considered)?
+.
 
    <next js>
       Is NextJS better than React?
@@ -52,9 +53,9 @@ payment
    
    <strip>
       Sanity is the most flexible platform for building data driven content solutions.
-
-
-      
+      .
+      .
+      .
       
 
 @If you were to spend more time on this task, what would you change and what other key features would you add?  
