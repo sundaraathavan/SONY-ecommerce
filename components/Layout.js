@@ -198,7 +198,7 @@ export default function Layout({ title, description, children }) {
                   <InputBase
                     name="query"
                     sx={classes.searchInput}
-                    placeholder="Search products"
+                    placeholder="Search Sony"
                     onChange={queryChangeHandler}
                   />
                   <IconButton
