@@ -41,3 +41,5 @@ shipping
 payment
 ![9](https://user-images.githubusercontent.com/52910050/166307100-462d0e6d-22b7-461f-baa1-aa46113f9c77.JPG)
 
+@If you were to spend more time on this task, what would you change and what other key features would you add?  
+    I Am first time use next js and sanity both are essayer to create web page ,then simplify the backend and database so somany development time is save these things.also it faster website responding time
