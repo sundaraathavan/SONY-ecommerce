@@ -24,6 +24,5 @@ export default createSchema({
     orderItem,
     paymentResult,
     shippingAddress,
-    banner,
   ]),
 });
