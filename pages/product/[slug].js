@@ -51,7 +51,7 @@ export default function ProductScreen(props) {
       }
     };
     fetchData();
-  }, );
+  }, []);
 
   const addToCartHandler = async () => {
     const existItem = cart.cartItems.find((x) => x._id === product._id);
